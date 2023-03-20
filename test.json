@@ -1,9 +1,24 @@
 {
-	"name": {
-		"pronouns": "he/him",
-		"salutation": "Mr.",
-		"first": "Luke",
-		"middle": "W",
-		"last": "Stephenson"
-	}
+	"user": [
+		{
+			"name": {
+				"pronouns": "he/him",
+				"salutation": "Mr.",
+				"first": "Luke",
+				"middle": "W",
+				"last": "Stephenson"
+			},
+			"email": "luke@luke.com"
+		},
+		{
+			"name": {
+				"pronouns": "he/him",
+				"salutation": "Mr.",
+				"first": "Luke",
+				"middle": "W",
+				"last": "Stephenson"
+			},
+			"email": "luke@luke.com"
+		}
+	]
 }
