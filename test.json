@@ -19,6 +19,16 @@
 				"last": "Stephenson"
 			},
 			"email": "luke@luke.com"
+		},
+		{
+			"name": {
+				"pronouns": "he/him",
+				"salutation": "Mr.",
+				"first": "Lucas",
+				"middle": "W",
+				"last": "Stephenson"
+			},
+			"email": "luke@luke.com"
 		}
 	]
 }
